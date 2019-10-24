@@ -1,0 +1,38 @@
+Java 学习网站
+
+国内
+
+http://how2j.cn/  非常不错的自学网站 会提供学习路线供参考
+
+菜鸟教程   这个不需要多说了
+
+牛客网  可以刷面试题和学习的地方
+
+V2EX   社区
+
+掘金   也是一个社区，可以看
+
+https://www.oschina.net/  开源中国  
+
+国外
+
+https://www.freecodecamp.org/  学习网站
+
+https://www.lintcode.com/  算法
+
+https://www.codecademy.cn/  编程学习
+
+https://lingcoder.github.io/OnJava8/#/  java编程思想
+
+-----------------------------------------------------------------
+公司所用的技术。。。
+
+前端框架：
+http://server:8080/sapui5/     sapui5
+
+https://cn.vuejs.org/    vue框架
+
+https://www.highcharts.com.cn/   vue的图表
+
+后端框架：
+https://spring.io/projects/spring-boot/   SpringBoot框架
