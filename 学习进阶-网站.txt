@@ -14,6 +14,7 @@ V2EX   社区
 
 https://www.oschina.net/  开源中国  
 
+
 国外
 
 https://www.freecodecamp.org/  学习网站
@@ -23,10 +24,6 @@ https://www.lintcode.com/  算法
 https://www.codecademy.cn/  编程学习
 
 https://lingcoder.github.io/OnJava8/#/  java编程思想
-
-https://algs4.cs.princeton.edu/home/  用java方式学习算法
-
-https://www.ibm.com/developerworks/cn/java/  一个IBM的java学习社区网站
 
 -----------------------------------------------------------------
 公司所用的技术。。。
@@ -40,3 +37,14 @@ https://www.highcharts.com.cn/   vue的图表
 
 后端框架：
 https://spring.io/projects/spring-boot/   SpringBoot框架
+
+
+
+
+
+
+
+
+http://aff.lusir017.com  陆先生
+
+a.elodm.com    工口酱
